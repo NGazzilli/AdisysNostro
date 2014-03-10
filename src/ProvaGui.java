@@ -77,7 +77,7 @@ public class ProvaGui extends javax.swing.JFrame {
         immagineTestataInfermieri = new javax.swing.JLabel();
         jScrollPaneInfermieri = new javax.swing.JScrollPane();
         tabellaInfermieri = new javax.swing.JTable();
-        jPanelFunzionalit√†Infermieri = new javax.swing.JPanel();
+        jPanelFunzionalit‡†Infermieri = new javax.swing.JPanel();
         jLabelOperazioniInfermiere = new javax.swing.JLabel();
         pulsanteCancellaInfermiere = new javax.swing.JButton();
         pulsanteModificaInfermiere = new javax.swing.JButton();
